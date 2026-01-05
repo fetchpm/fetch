@@ -1,0 +1,7 @@
+{
+  "official": {
+    "id": "fetch",
+    "name": "Official Fetch Vault",
+    "url": "https://raw.githubusercontent.com/fetchpm/vault/main/registry.json"
+  }
+}
